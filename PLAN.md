@@ -1,5 +1,6 @@
 # The 3 Day Expedition 😎✨
 
+```
 Sunday - (Night) - Bangalore Departure (7hrs Travel)
 Monday - (Morning) (Day 1) - Ooty (Arrival)
 Monday - (Night) (Night 1) - Ooty
@@ -7,6 +8,8 @@ Tuesday - (Morning) (Day 2) - Ooty
 Tuesday - (Night) (Night 2) - Ooty
 Wednesday - (Morning) (Day 3) - Coonoor Arrival (Early morning)
 Wednesday - (Evening) (Almost Night 3) - Coonoor Departure - (7hrs Travel) - Bangalore Arrival
+
+```
 
 ## 2 Day OOOOOOOOTY 🤩
 
