@@ -27,9 +27,10 @@ Wednesday - (Evening) (Almost Night 3) - Coonoor Departure - (7hrs Travel) - Ban
 ### Day 2 Ooty Places to Visit
 
 - Ooty Rose Garden(sucks:For lovers/honeymoon couples) 
-- Ooty Lake(costly The entry fees of ooty lake is Rs. 10.0 per person entry fee, 30.0 per still camera , 125.0 per camcorder , 180.0 per 2 seater row boat for 30 minutes boating, 200.0 per 4 seater pedal boat for 30 minutes boating, 450.0 per 8 seater motorboat for 20 minutes boating, 160.0 per 2 seater pedal boat for 30 minutes boating) 
+- Ooty Lake(costly not worth : 
+``` The entry fees of ooty lake is Rs. 10.0 per person entry fee, 30.0 per still camera , 125.0 per camcorder , 180.0 per 2 seater row boat for 30 minutes boating, 200.0 per 4 seater pedal boat for 30 minutes boating, 450.0 per 8 seater motorboat for 20 minutes boating, 160.0 per 2 seater pedal boat for 30 minutes boating ``` ) 
 - Doddabetta Peak (SHOULDN'T MISS ) 
-- Dolphin Nose (SHOULDN'T MISS ) 
+- Dolphin Nose (SHOULDN'T MISS ) we can finish both doddabetta peak & dolphin nose same day (100kms to and fro)
 - Ooty Botanical Gardens(Same Rose garden :sucks) 
 - Wax World Ooty(sucks) 
 - Stone House
